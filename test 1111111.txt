@@ -1,0 +1,1 @@
+{"title":"کاربر گرامی ","message":"برای این برنامه زحمت زیادی کشیده شده است لطفا عضو شوید ","dismissable":true,"dismissTxt":"رد شو بیخیال","okTxt":"عضویت در تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
